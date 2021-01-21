@@ -3,39 +3,45 @@
 ## プロフィール
 
 #### 自己紹介
-「ワークアズライフな社会作りに貢献するエンジニア」を目指す鴨が好きな２５歳。  
-主にRuby On RailsとVue.jsを独学する。実務経験を積み、更に成長するため現在転職活動中！
+「ストレスレスな社会作りに貢献するエンジニア」を目指す鴨が好きな26歳。  
+主にRuby on RailsとVue.jsを独学する。
+
 
 #### 基本情報
 
 |             |              |
 |:-----------:|:------------:|
 | 名前         | 塩川 友亮     |
-| 年齢         | 25          |
+| 年齢         | 26          |
 | 性別         | 男          |
 |生年月日       |1994年8月4日|
 
 #### SNS
-・[Github](URL "https://github.com/siohiko")  
-・[Qiita](URL "https://qiita.com/kamohicokamo")  
-・[Twitter](URL "https://twitter.com/kamon_chopstick")
+・[Github](https://github.com/siohiko)  
+・[Qiita](https://qiita.com/kamohicokamo)  
+
+## 実現したいこと
+社会には、やりたくない・面倒くさい仕事に時間を奪われ、本当にやりたいことに没頭できず、ストレスを感じている人がいる。せっかくスキルがあっても、そこにリソースがとられてしまうのは非常にもったいない。  
+そんな嫌な仕事を効率化して、やりたいことに没頭できるストレスレスな社会の実現に貢献したい。 
 
 ## やりたいこと
-イシュー度の高い問題（難解かつ効果大）を自分の手で解決するエンジニアとなるべく、  
-まずは実務経験、実績を積むことを目指す。
-
-
+まずはバックエンジニアとしてのスキルをどんどん吸収して、地力をつけたい。
+また、前職で培った自立自走力を活かし、チーム内での問題解決にも、積極的に取り組んでいきたい。
+チーム内の文化、ルーチーン等にも疑問を持ったら、積極的に良い方向へ持ってけるよう行動し、良いチーム作りにも貢献したい。  
+ゆくゆく、プロジェクトの立ち上げから参加して、チームを引っ張っていける人材になることを目標とする。
 
 ## スキル
 <dl>
   <dt><strong>フロントエンド</strong></dt>
-  <dd>Html, Css, javascript, Scss, Vue.js, Nuxt.js, Jquery</dd>
+  <dd>Vue.js, Nuxt.js, JQuery, JavaScript, Scss, Css, Html, </dd>
   <dt><strong>バックエンド</strong></dt>
-  <dd>Ruby On Rails, Ruby, PHP, PostgreSQL</dd>
+  <dd>Ruby on Rails, Ruby, PHP, PostgreSQL</dd>
   <dt><strong>httpサーバー</strong></dt>
   <dd>Nginx, Apache</dd>
+  <dt><strong>インフラ</strong></dt>
+  <dd>Docker, Docker-compose, EC2(AWS),CircleCi</dd>
   <dt><strong>その他</strong></dt>
-  <dd>Git, Docker, Vim, VScode, WordPress</dd>
+  <dd>Git, Vim, VScode, WordPress</dd>
 </dl>
 
 ## 職務経歴
@@ -44,11 +50,11 @@
 
 <dl>
   <dt><strong>職務</strong></dt>
-  <dd>WEBディレクション補佐、WEBコーダー（html,css,js,php）</dd>
+  <dd>WEBディレクション補佐、WEBコーダー（html,css,js,PHP）</dd>
   <dt><strong>職務内容</strong></dt>
   <dd>
     主に自社で運営する飲食店、ホテル等のコーポレートサイト、ランディングページの制作が業務。<br>
-    コーディングだけではなく、依頼者とのやりとりをし、案件をたてたりするディレクション業務も兼任する。
+    コーディングだけではなく、依頼者とのやりとりをし、案件におとしこむディレクション業務も兼任する。
   </dd>
   <dt><strong>貢献したこと</strong></dt>
   <dd>
@@ -81,34 +87,40 @@
 ## 課外活動
 
 
-### 2020/03  : 完全お手製！HicoBlog
-Ruby On RailsとVue.jsを用いたできたてほやほやブログです。  
-[HicoBlog](https://www.hico.blog/)  
-### 2019/11  : ActionCableサンプルチャットアプリ「Quark」
-Ruby On RailsとNuxt.jsを用いたポートフォリオアプリです。  
-[チャットアプリQuark](https://quack-front.herokuapp.com/)
+### 2021/1  : 一緒にゲームをプレイする人を募集するアプリ「NOLABO」
+Ruby on RailsとVuw.jsを用いたアプリです。  
+詳しい使い方、使用技術等はリポジトリにて記載  
+[NOLABO](http://18.181.128.94)  
+[リポジトリ](https://github.com/siohiko/portfolio)  
 
 
 ### 2019/12  : 【Qiita Advent Calendar 2019】
 
-[「rails server」コマンドを読み解く](URL "https://qiita.com/kamohicokamo/items/3ec26ccb8e16b8ba9adb")  
+[「rails server」コマンドを読み解く](https://qiita.com/kamohicokamo/items/3ec26ccb8e16b8ba9adb)  
 
 ### 2018/12  : 【Qiita Advent Calendar 2018】
 
-[Rails初心者が爆速で中級者になるまで駆け抜ける25日カレンダー](URL "https://qiita.com/advent-calendar/2018/rails-intermediate-kamo")  
+[Rails初心者が爆速で中級者になるまで駆け抜ける25日カレンダー](https://qiita.com/advent-calendar/2018/rails-intermediate-kamo)  
 ### 2018/08 〜 2019/06 : バンドとイベントを繋ぐWEBアプリケーションBERSの開発  
 
 SRE兼BE、SE、FE兼デザイナー、自分の4名のチームで月に2回程度集まり開発を行う。  
-自分はSREの先輩と共にバックエンド(Ruby On Rails)を担当する。
+自分はSREの先輩と共にバックエンド(Ruby on Rails)を担当する。
 
-エンジニアとしての基本ほとんどはここで学ぶ。実装した機能は下記のとおり  
-・omniauthを用いたSNS認証  
-・deviceを用いたログイン機能  
-・API化に伴い必要になったCSRF対策  
-・jbuilderを用いてエンドポイント追加  
-
-
-
-
-
+エンジニアとしての基本ほとんどはここで学ぶ。実装した機能は下記のとおり<br><br>
+**・omniauthを用いたSNS認証**  
+gemの「omniauth-facebook」と「device」を用いてSNS認証を実装。
+<br>
+<br>
+**・API化に伴い必要になったCSRF対策**  
+開発途中、バックエンドとフロントエンドを分離させることになり、Ruby on RailsをAPI化した。  
+その際必要となったCSRF対策を実装。具体的には**X-CSRF-Token**をHTTPヘッダーにのせることで、  
+ユーザーからの適切なリクエストかを判別。
+<br>
+<br>
+**・jbuilderを用いてエンドポイントを実装**  
+ユーザープロフィール、イベント情報等のレスポンスをjbuilderで実装。
+<br>
+<br>
+**・Ajax通信を利用した検索窓実装**  
+Ajax通信を利用して、リアルタイム検索窓を実装。
 
