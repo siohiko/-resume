@@ -90,7 +90,7 @@
 ### 2021/1  : 一緒にゲームをプレイする人を募集するアプリ「NOLABO」
 Ruby on RailsとVuw.jsを用いたアプリです。  
 詳しい使い方、使用技術等はリポジトリにて記載  
-[NOLABO](http://18.181.128.94)  
+[NOLABO](http://nolabo-portfolio.tk/)  
 [リポジトリ](https://github.com/siohiko/portfolio)  
 
 
